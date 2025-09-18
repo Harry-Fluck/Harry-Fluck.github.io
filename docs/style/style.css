@@ -11,6 +11,13 @@ body {
   background: #92101C;
 }
 
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+
 h1 {
   padding: 0px;
   font-size:36pt;
