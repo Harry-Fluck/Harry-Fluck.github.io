@@ -68,8 +68,7 @@ nav {
 }
 
 nav ul {
-  display: flex;
-  justify-content: center;
+
   text-align:center;
   width:100%;
   margin:0;
@@ -77,8 +76,6 @@ nav ul {
 }
 
 nav ul li {
-  display: flex;
-  justify-content: center;
   width:33%;
   gap:0px;
 /*   float:left; */
