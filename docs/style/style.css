@@ -51,11 +51,16 @@ nav {
 }
 
 nav ul {
-  text-align:center;
+/*   text-align:center;
   width:100%;
   display: table;
   margin:0 auto;
-  padding:0px;
+  padding:0px; */
+   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  display: flex;
   justify-content: center;
 }
 
