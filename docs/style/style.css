@@ -50,7 +50,7 @@ nav {
   margin: 0 auto;
 }
 
-/* nav ul {
+nav ul {
   text-align:center; 
   width:100%;
   display: table;
@@ -62,9 +62,9 @@ nav {
 nav ul li {
   width:25%;
    float:left; 
-} */
+}
 
-nav ul {
+/* nav ul {
     list-style-type: none;
     text-align: center;
     padding: 0;
@@ -74,11 +74,11 @@ nav ul {
 }
 
 /* Style each list item */
-nav ul li {
+/* nav ul li {
     position: relative;
     width: 25%; /* Adjust to control the size of each item */
-}
-
+} 
+ 
 nav ul li a {
   display:block;
   text-decoration:none;
