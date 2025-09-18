@@ -66,6 +66,8 @@ nav ul {
 }
 
 nav ul li {
+  display: flex;
+  justify-content: center;
   width:25%;
   float:left;
 }
