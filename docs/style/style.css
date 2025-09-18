@@ -81,7 +81,7 @@ nav ul li {
   justify-content: center;
   width:33%;
   gap:0px;
-  float:left;
+/*   float:left; */
 }
 
 nav ul li a {
