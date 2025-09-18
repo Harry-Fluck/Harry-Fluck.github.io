@@ -78,7 +78,7 @@ nav ul {
 nav ul li {
   width:33%;
   gap:0px;
-/*   float:left; */
+  float:left; 
 }
 
 nav ul li a {
