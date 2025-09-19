@@ -11,7 +11,14 @@ body {
   background: #92101C;
 }
 
+#container {
+    display: flex;
+    align-items: center;
+}
 
+#container p {
+    margin-left: 1em;
+}
 
 .row {
   display: flex;
